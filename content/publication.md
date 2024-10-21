@@ -27,6 +27,7 @@ venue:
     name: "Under Review"
 artifactLinks:
     Website: https://deform-pam.robotflow.ai/
+    arXiv: https://arxiv.org/abs/2410.11584
     Code: https://github.com/xiaoxiaoxh/DeformPAM
 ---
 ::
