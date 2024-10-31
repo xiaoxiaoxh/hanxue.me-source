@@ -289,15 +289,15 @@ hideBottomBorder: true
 
 [Full publication list >>>](/publication/)
 
+## ✨ Talks
+- \[Oct. 2024\] Invited talk @ [TEA lab](http://hxu.rocks/index.html) in Tsinghua University, IIIS on "Efficient Learning for Long-horizon Deformable Object Manipulation" 
+
 ## 🏆 Awards
 
 - Outstanding Graduates in Shanghai (Top 3%) in 2021.
 - Rongchang Technology Innovation Scholarship (Top 10 students in SJTU) in 2020.
 - SenseTime Scholarship (Top 21 undergraduates in China) in 2020.
-- National Scholarship (Top 3 students in CS Department).
-  -  National Scholarship in 2019
-  -  National Scholarship in 2018
-  -  National Scholarship in 2017
+- National Scholarship (Top 3 students in CS Department) in 2017, 2018 and 2019 (three consecutive years).
 - Academic Excellence Scholarship (Class A) of SJTU (Top 1% in SJTU) in 2018.
 - Meritorious Winner Prize of Mathematical Contest in Modeling in 2018.
 - 1st Prize in China Undergraduate Mathematical Contest in Modeling (Shanghai Division) in 2017.
