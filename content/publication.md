@@ -22,9 +22,9 @@ authors:
     - Yuan Fang
     - Cewu Lu (*Equal contribution)
 venue:
-    acronym: arXiv
-    year: 2024
-    name: "Under Review"
+    acronym: ICRA
+    year: 2025
+    name: "IEEE International Conference on Robotics and Automation (ICRA)"
 artifactLinks:
     Website: https://deform-pam.robotflow.ai/
     arXiv: https://arxiv.org/abs/2410.11584

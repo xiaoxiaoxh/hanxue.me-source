@@ -61,9 +61,9 @@ authors:
     - Yuan Fang
     - Cewu Lu (*Equal contribution)
 venue:
-    acronym: arXiv
-    year: 2024
-    name: "Under Review"
+    acronym: ICRA
+    year: 2025
+    name: "IEEE International Conference on Robotics and Automation (ICRA)"
 artifactLinks:
     Website: https://deform-pam.robotflow.ai/
     arXiv: https://arxiv.org/abs/2410.11584
@@ -291,6 +291,7 @@ hideBottomBorder: true
 
 ## ✨ Talks
 - \[Oct. 2024\] Invited talk @ [TEA lab](http://hxu.rocks/index.html) in Tsinghua University, IIIS on "Efficient Learning for Long-horizon Deformable Object Manipulation" 
+- \[Dec. 2024\] Invited talk @ [ROSCon China 2024](https://www.roscon.cn/2024/index.html) workshop on "Development Trends and Challenges in Embodied AI". The link of the recorded video is [here](https://www.bilibili.com/video/BV1Z3cteAEnD/?spm_id_from=333.337.search-card.all.click&vd_source=8e062051896958b92b4759e0f4753657).
 
 ## 🏆 Awards
 

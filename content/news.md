@@ -12,6 +12,7 @@ subtitle: "📢 Latest: I'm a Ph.D. candidate now!"
 ::
 
 <!-- ![](/assets/img/me-news-google.png) -->
+- **01/29/2025** 🎉 One paper ([DeformPAM](https://deform-pam.robotflow.ai/)) is accepted by ICRA 2025!
 - **10/14/2024** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/DeformPAM) of [DeformPAM](https://deform-pam.robotflow.ai/).
 - **11/05/2023** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/UniFolding) of our CoRL 2023 paper [UniFolding](https://unifolding.robotflow.ai/).
 - **10/31/2023** 🎓 Passed my classes and research qualifications, I'm a Ph.D. candidate now!
