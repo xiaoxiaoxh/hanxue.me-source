@@ -9,12 +9,12 @@ disableFancyImage: true
 
 ## 🦸🏻‍♂️ About Me
 
-I am a third-year Computer Science Ph.D. candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a member of [Machine Intelligence and Vision Group (MVIG)](https://www.mvig.org/) under the supervision of [Prof. Cewu Lu](https://www.mvig.org/).
+I am a third-year Computer Science Ph.D. candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a member of [Machine Intelligence and Vision Group (MVIG)](https://www.mvig.org/) under the supervision of [Prof. Cewu Lu](https://www.mvig.org/) (卢策吾). I am also a member of [Wu Wen Jun Honorary Doctoral Program](https://ai.sjtu.edu.cn/info/announcements/204) (吴文俊荣誉博士班).
 
-I receive my bachelor degree from Shanghai Jiao Tong Universiy in 2021. My research interests lie in Robotics and 3D Vision. Previously, I have been working on deformable object perception and manipulation. Now I am particularly interested in tactile sensing and bimanual manipulation.
+I receive my bachelor degree from Shanghai Jiao Tong Universiy in 2021. My research interests lie in Robotics and 3D Vision. Previously, I have been working on deformable object perception and manipulation. Now I am particularly interested in imitation learning with tactile/force sensing and low-cost data collection system.
 
 
-In the past, I have interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the supervsion of [Han Hu](https://ancientmooner.github.io/) and [Yue Cao](http://yue-cao.me/). In my spare time, I enjoy watching movies and playing with robots🤖.
+In the past, I have interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the supervsion of [Han Hu](https://ancientmooner.github.io/) and [Yue Cao](http://yue-cao.me/). I also spent time with Prof. [Huazhe Xu](http://hxu.rocks/index.html) at Tsinghua University on my projects. In my spare time, I enjoy watching movies and playing with robots🤖.
 
 
 ## 📰 News
@@ -42,6 +42,7 @@ Jul. 2019 - Mar. 2020
 ::ExperienceRow{icon=sjtu.png}
 **Shanghai Jiao Tong University**\
 Bachelor of Engineering in Computer Science. \
+GPA 4.04/4.3, Rank 3/150 (Top 2%)\
 Sep 2016 - Jun. 2021
 ::
 
@@ -295,10 +296,10 @@ hideBottomBorder: true
 
 ## 🏆 Awards
 
-- Outstanding Graduates in Shanghai (Top 3%) in 2021.
-- Rongchang Technology Innovation Scholarship (Top 10 students in SJTU) in 2020.
-- SenseTime Scholarship (Top 21 undergraduates in China) in 2020.
-- National Scholarship (Top 3 students in CS Department) in 2017, 2018 and 2019 (three consecutive years).
+- Outstanding Graduates in Shanghai (Top 3%) \[上海市优秀毕业生\] in 2021.
+- Rongchang Technology Innovation Scholarship (Top 10 students in SJTU) \[荣昶科技创新奖学金\] in 2020.
+- SenseTime Scholarship (Top 21 undergraduates in China) \[商汤奖学金\] in 2020.
+- National Scholarship (Top 3 students in CS Department) in 2017, 2018 and 2019 (three consecutive years) \[国家奖学金（连续三年）\].
 - Academic Excellence Scholarship (Class A) of SJTU (Top 1% in SJTU) in 2018.
 - Meritorious Winner Prize of Mathematical Contest in Modeling in 2018.
 - 1st Prize in China Undergraduate Mathematical Contest in Modeling (Shanghai Division) in 2017.
