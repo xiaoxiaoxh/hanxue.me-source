@@ -7,7 +7,7 @@ disableFancyImage: true
 ::MarkdownHeader
 ---
 title: News
-subtitle: "📢 Latest: One paper ([DeformPAM](https://deform-pam.robotflow.ai/)) is accepted by ICRA 2025!"
+subtitle: "📢 Latest: One paper (DeformPAM) is accepted by ICRA 2025!"
 ---
 ::
 

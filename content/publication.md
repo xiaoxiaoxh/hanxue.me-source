@@ -10,6 +10,30 @@ title: Publications
 
 ::PublicationRow
 ---
+title: "Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation"
+thumbnail: rdp.gif
+type: conference
+authors:
+    - Han Xue*
+    - Jieji Ren*
+    - Wendi Chen*
+    - Gu Zhang
+    - Yuan Fang
+    - Guoying Gu
+    - Huazhe Xu†
+    - Cewu Lu† (†Equal advising)
+venue:
+    acronym: arXiv
+    year: 2025
+    name: "In submission to RSS 2025."
+artifactLinks:
+    Website: https://reactive-diffusion-policy.github.io/
+    arXiv: https://arxiv.org/abs/2503.02881
+---
+::
+
+::PublicationRow
+---
 title: "DeformPAM: Data-Efficient Learning for
 Long-horizon Deformable Object Manipulation via
 Preference-based Action Alignment"
