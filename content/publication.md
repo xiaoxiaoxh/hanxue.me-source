@@ -25,7 +25,7 @@ authors:
 venue:
     acronym: arXiv
     year: 2025
-    name: "In submission"
+    name: "arXiv"
 artifactLinks:
     Website: https://reactive-diffusion-policy.github.io/
     arXiv: https://arxiv.org/abs/2503.02881
