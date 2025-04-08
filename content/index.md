@@ -9,7 +9,7 @@ disableFancyImage: true
 
 ## 🦸🏻‍♂️ About Me
 
-I am a third-year Computer Science Ph.D. candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a member of [Machine Intelligence and Vision Group (MVIG)](https://www.mvig.org/) under the supervision of [Prof. Cewu Lu](https://www.mvig.org/) (卢策吾). I am also a member of [Wu Wen Jun Honorary Doctoral Program](https://ai.sjtu.edu.cn/info/announcements/204) (吴文俊荣誉博士班).
+I am a fourth-year Computer Science Ph.D. candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a member of [Machine Intelligence and Vision Group (MVIG)](https://www.mvig.org/) under the supervision of [Prof. Cewu Lu](https://www.mvig.org/) (卢策吾). I am also a member of [Wu Wen Jun Honorary Doctoral Program](https://ai.sjtu.edu.cn/info/announcements/204) (吴文俊荣誉博士班).
 
 I receive my bachelor degree from Shanghai Jiao Tong Universiy in 2021. My research interests lie in Robotics and 3D Vision. Previously, I have been working on deformable object perception and manipulation. Now I am particularly interested in imitation learning with tactile/force sensing and low-cost data collection system.
 
@@ -69,6 +69,7 @@ venue:
 artifactLinks:
     Website: https://reactive-diffusion-policy.github.io/
     arXiv: https://arxiv.org/abs/2503.02881
+    Code: https://github.com/xiaoxiaoxh/reactive_diffusion_policy
 ---
 ::
 
