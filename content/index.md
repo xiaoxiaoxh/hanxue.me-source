@@ -16,6 +16,7 @@ I receive my bachelor degree from Shanghai Jiao Tong Universiy in 2021. My resea
 
 In the past, I have interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the supervsion of [Han Hu](https://ancientmooner.github.io/) and [Yue Cao](http://yue-cao.me/). I also spent time with Prof. [Huazhe Xu](http://hxu.rocks/index.html) at Tsinghua University on my projects. In my spare time, I enjoy watching movies and playing with robots🤖.
 
+I'm on the job market now!
 
 ## 📰 News
 
@@ -28,7 +29,7 @@ In the past, I have interned at [Microsoft Research Asia](https://www.microsoft.
 
 ::ExperienceRow{icon=sjtu.png}
 **Shanghai Jiao Tong University**\
-Ph.D. Student / Master Student.\
+Ph.D. Student \
 Research assistant in [Machine Intelligence and Vision Group (MVIG)](https://www.mvig.org/), advised by [Prof. Cewu Lu](https://www.mvig.org/)\
 Sep. 2021 - Present
 ::
