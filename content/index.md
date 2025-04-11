@@ -64,9 +64,9 @@ authors:
     - Huazhe Xu†
     - Cewu Lu† (†Equal advising)
 venue:
-    acronym: arXiv
+    acronym: RSS
     year: 2025
-    name: "arXiv"
+    name: "Robotics: Science and Systems (RSS)"
 artifactLinks:
     Website: https://reactive-diffusion-policy.github.io/
     arXiv: https://arxiv.org/abs/2503.02881

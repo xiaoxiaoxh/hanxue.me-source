@@ -12,6 +12,7 @@ subtitle: "📢 Latest: One paper (DeformPAM) is accepted by ICRA 2025!"
 ::
 
 <!-- ![](/assets/img/me-news-google.png) -->
+- **04/11/2024** One paper ([Reactive Diffusion Policy](https://reactive-diffusion-policy.github.io/)) is accepted by RSS 2025!
 - **04/03/2025** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy) of [Reactive Diffusion Policy](https://reactive-diffusion-policy.github.io/)!
 - **01/29/2025** 🎉 One paper ([DeformPAM](https://deform-pam.robotflow.ai/)) is accepted by ICRA 2025!
 <!-- - **10/14/2024** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/DeformPAM) of [DeformPAM](https://deform-pam.robotflow.ai/). -->
