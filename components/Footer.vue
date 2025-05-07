@@ -7,7 +7,7 @@
                     <p class="text-sm">
                         薛寒 | Han Xue <br />
                         CS Ph.D. Candidate <a href="https://en.sjtu.edu.cn/">@SJTU</a> <br />
-                        Research Interests: Robotics, 3D Vision
+                        Research Interests: Robotics, Computer Vision
                     </p>
                 </div>
 

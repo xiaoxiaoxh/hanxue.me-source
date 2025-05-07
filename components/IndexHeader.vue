@@ -9,7 +9,7 @@
                     <p class="w-full text-xl pl-3 prose dark:prose-invert m-0">
                         薛寒  <br />
                         CS Ph.D. Candidate <a href="https://en.sjtu.edu.cn/">@SJTU</a> <br />
-                        Research Interests: Robotics, 3D Vision
+                        Research Interests: Robotics, Computer Vision
                     </p>
                     <p class="mt-4 w-full pl-3 m-0">
                         <span class="m-0">

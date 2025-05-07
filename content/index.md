@@ -11,7 +11,7 @@ disableFancyImage: true
 
 I am a fourth-year Computer Science Ph.D. candidate at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) and a member of [Machine Intelligence and Vision Group (MVIG)](https://www.mvig.org/) under the supervision of [Prof. Cewu Lu](https://www.mvig.org/) (卢策吾). I am also a member of [Wu Wen Jun Honorary Doctoral Program](https://ai.sjtu.edu.cn/info/announcements/204) (吴文俊荣誉博士班).
 
-I receive my bachelor degree from Shanghai Jiao Tong Universiy in 2021. My research interests lie in Robotics and 3D Vision. Previously, I have been working on deformable object perception and manipulation. Now I am particularly interested in imitation learning with tactile/force sensing and low-cost data collection system.
+I receive my bachelor degree from Shanghai Jiao Tong Universiy in 2021. My research interests lie in Robotics and Computer Vision. Previously, I have been working on deformable object perception and manipulation. Now I am particularly interested in imitation learning with tactile/force sensing and low-cost data collection system.
 
 
 In the past, I have interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) under the supervsion of [Han Hu](https://ancientmooner.github.io/) and [Yue Cao](http://yue-cao.me/). I also spent time with Prof. [Huazhe Xu](http://hxu.rocks/index.html) at Tsinghua University on my projects. In my spare time, I enjoy watching movies and playing with robots🤖.
@@ -317,8 +317,9 @@ hideBottomBorder: true
 [Full publication list >>>](/publication/)
 
 ## ✨ Talks
-- \[Oct. 2024\] Invited talk @ [TEA lab](http://hxu.rocks/index.html) in Tsinghua University, IIIS on "Efficient Learning for Long-horizon Deformable Object Manipulation" 
+- \[Apr. 2025\] Invited talk @ [TechBeat](https://www.techbeat.net/) on "Robotic Imitation Learning with Vision-Tactile/Force Sensing". The link of the recorded video is [here](https://www.techbeat.net/talk-info?id=963).
 - \[Dec. 2024\] Invited talk @ [ROSCon China 2024](https://www.roscon.cn/2024/index.html) workshop on "Development Trends and Challenges in Embodied AI". The link of the recorded video is [here](https://www.bilibili.com/video/BV1Z3cteAEnD/?spm_id_from=333.337.search-card.all.click&vd_source=8e062051896958b92b4759e0f4753657).
+- \[Oct. 2024\] Invited talk @ [TEA lab](http://hxu.rocks/index.html) in Tsinghua University, IIIS on "Efficient Learning for Long-horizon Deformable Object Manipulation" 
 
 ## 🏆 Awards
 
