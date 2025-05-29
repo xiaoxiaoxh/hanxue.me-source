@@ -12,8 +12,9 @@ subtitle: "📢 Latest: One paper (DeformPAM) is accepted by ICRA 2025!"
 ::
 
 <!-- ![](/assets/img/me-news-google.png) -->
+- **05/23/2025** 🔥 [Reactive Diffusion Policy](https://reactive-diffusion-policy.github.io/) is selected as the **Best Paper** @ [Beyond Pick and Place workshop](https://sites.google.com/view/icra-2025-beyond-pick-place/home) @ ICRA 2025!
 - **04/11/2025** 🎉 One paper ([Reactive Diffusion Policy](https://reactive-diffusion-policy.github.io/)) is accepted by RSS 2025!
-- **04/03/2025** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy) of [Reactive Diffusion Policy](https://reactive-diffusion-policy.github.io/)!
+<!-- - **04/03/2025** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/reactive_diffusion_policy) of [Reactive Diffusion Policy](https://reactive-diffusion-policy.github.io/)! -->
 - **01/29/2025** 🎉 One paper ([DeformPAM](https://deform-pam.robotflow.ai/)) is accepted by ICRA 2025!
 <!-- - **10/14/2024** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/DeformPAM) of [DeformPAM](https://deform-pam.robotflow.ai/). -->
 <!-- - **11/05/2023** 🖥️ We have released the [code](https://github.com/xiaoxiaoxh/UniFolding) of our CoRL 2023 paper [UniFolding](https://unifolding.robotflow.ai/). -->

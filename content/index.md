@@ -72,6 +72,7 @@ artifactLinks:
     arXiv: https://arxiv.org/abs/2503.02881
     Code: https://github.com/xiaoxiaoxh/reactive_diffusion_policy
 ---
+<span class="text-red-600 font-bold">🔥 Best Paper Award [@ Beyond P&P Workshop in ICRA 2025](https://sites.google.com/view/icra-2025-beyond-pick-place/home).</span>
 ::
 
 ::PublicationRow
@@ -96,6 +97,7 @@ artifactLinks:
     arXiv: https://arxiv.org/abs/2410.11584
     Code: https://github.com/xiaoxiaoxh/DeformPAM
 ---
+<span class="text-red-600 font-bold">🔥 Best Paper Finalist [@ RMDO Workshop in ICRA 2025](https://deformable-workshop.github.io/icra2025/).</span>
 ::
 
 ::PublicationRow
@@ -317,7 +319,7 @@ hideBottomBorder: true
 [Full publication list >>>](/publication/)
 
 ## ✨ Talks
-- \[Apr. 2025\] Invited talk @ [TechBeat](https://www.techbeat.net/) on "Robotic Imitation Learning with Vision-Tactile/Force Sensing". The link of the recorded video is [here](https://www.techbeat.net/talk-info?id=963).
+- \[Apr. 2025\] Invited talk @ [TechBeat](https://www.techbeat.net/) (将门创投) on "Robotic Imitation Learning with Vision-Tactile/Force Sensing". The link of the recorded video is [here](https://www.techbeat.net/talk-info?id=963).
 - \[Dec. 2024\] Invited talk @ [ROSCon China 2024](https://www.roscon.cn/2024/index.html) workshop on "Development Trends and Challenges in Embodied AI". The link of the recorded video is [here](https://www.bilibili.com/video/BV1Z3cteAEnD/?spm_id_from=333.337.search-card.all.click&vd_source=8e062051896958b92b4759e0f4753657).
 - \[Oct. 2024\] Invited talk @ [TEA lab](http://hxu.rocks/index.html) in Tsinghua University, IIIS on "Efficient Learning for Long-horizon Deformable Object Manipulation" 
 
