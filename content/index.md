@@ -72,7 +72,7 @@ artifactLinks:
     arXiv: https://arxiv.org/abs/2503.02881
     Code: https://github.com/xiaoxiaoxh/reactive_diffusion_policy
 ---
-<span class="text-red-600 font-bold">🔥 Best Paper Award [@ Beyond P&P Workshop in ICRA 2025](https://sites.google.com/view/icra-2025-beyond-pick-place/home).</span>
+<span class="text-red-600 font-bold">🔥 Best Student Paper Finalist.</span>
 ::
 
 ::PublicationRow
