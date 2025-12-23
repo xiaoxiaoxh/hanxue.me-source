@@ -50,6 +50,81 @@ Sep 2016 - Jun. 2021
 ## 📄 Selected Publications
 ::PublicationRow
 ---
+title: "ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning"
+thumbnail: ImplicitRDP.gif
+type: conference
+authors:
+    - Wendi Chen
+    - Han Xue
+    - Yi Wang
+    - Fangyuan Zhou
+    - Jun Lv
+    - Yang Jin
+    - Shirun Tang
+    - Chuan Wen†
+    - Cewu Lu† (†equal advising)
+venue:
+    acronym: arXiv
+    year: 2025
+    name: "arXiv"
+artifactLinks:
+    Website: https://implicit-rdp.github.io/
+    arXiv: https://arxiv.org/abs/2512.10946
+---
+::
+
+::PublicationRow
+---
+title: "SOE: Sample-Efficient Robot Policy Self-Improvement via On-Manifold Exploration"
+thumbnail: SOE.gif
+type: conference
+authors:
+    - Yang Jin
+    - Jun Lv
+    - Han Xue
+    - Wendi Chen
+    - Chuan Wen†
+    - Cewu Lu† (†equal advising)
+venue:
+    acronym: arXiv
+    year: 2025
+    name: "arXiv"
+artifactLinks:
+    Website: https://ericjin2002.github.io/SOE
+    arXiv: https://arxiv.org/abs/2509.19292
+---
+::
+
+::PublicationRow
+---
+title: "Right-Side-Out: Learning Zero-Shot Sim-to-Real Garment Reversal"
+thumbnail: Right-Side-Out.gif
+type: conference
+authors:
+    - Chang Yu*
+    - Siyu Ma*
+    - Wenxin Du
+    - Zeshun Zong
+    - Han Xue
+    - Wendi Chen
+    - Cewu Lu
+    - Yin Yang
+    - Xuchen Han
+    - Joseph Masterjohn
+    - Alejandro Castro
+    - Chenfanfu Jiang (*Equal contribution)
+venue:
+    acronym: arXiv
+    year: 2025
+    name: "arXiv"
+artifactLinks:
+    Website: https://right-side-out.github.io/
+    arXiv: https://arxiv.org/abs/2509.15953
+---
+::
+
+::PublicationRow
+---
 title: "Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation"
 thumbnail: rdp.gif
 type: conference
